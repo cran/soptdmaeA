@@ -1,0 +1,1 @@
+soptdmaeA<-function(trt.N, blk.N, theta, nrep, strt, sary, des0, dtype, Optcrit = " ",...)UseMethod("soptdmaeA")
